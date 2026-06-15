@@ -11,7 +11,7 @@ from aiogram.types import Message, FSInputFile, InlineKeyboardMarkup, InlineKeyb
 from aiogram.enums import ParseMode
 
 # ===== КОНФИГУРАЦИЯ =====
-BOT_TOKEN = "8740657570:AAFBL6ikzv7hs_YGWP61uui_Tu3I8LzGWGE"
+BOT_TOKEN = "8989900194:AAFNG9gHkvCgy0LC76jsNB9pMOwgYUM-FzM"
 
 # ТВОЙ ID (правильный)
 ADMIN_IDS = [1087968824]
